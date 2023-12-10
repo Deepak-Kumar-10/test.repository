@@ -1,4 +1,2 @@
 # test-repository
-This is test description
-
-This is from my local computer.
+This is a new line
